@@ -26,7 +26,7 @@ item-msgbnd-dcx
   
   GoodsInfo2
   
-  GoodsName
+  GoodsName : 99% - 주로 사용하지 않는 아이템 제외
   
   MagicCaption
   
