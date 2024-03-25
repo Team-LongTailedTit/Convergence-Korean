@@ -52,6 +52,7 @@ item-msgbnd-dcx
   
   WeaponName
   
+  ---
 
 menu-msgbnd-dcx
 
