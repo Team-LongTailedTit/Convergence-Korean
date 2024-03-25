@@ -1,0 +1,21 @@
+Heavy 중후한
+Keen 예리한
+Quality 상질의
+Glint 휘석의
+Dragonkin 용인의
+Gravity 중력의
+Flame 화염의
+Golden 황금의
+Draconic 용의
+Bestial 야수의
+Night 밤의
+Lava 용암의
+Frenzy 미친 불의
+Death 죽음의
+Godslayer 신 사냥의
+Frost 냉기의
+Aberrant 변종의
+Bloodflame 혈염의
+Rotten 부패의
+Storm 폭풍의
+Mystic 불가사의한

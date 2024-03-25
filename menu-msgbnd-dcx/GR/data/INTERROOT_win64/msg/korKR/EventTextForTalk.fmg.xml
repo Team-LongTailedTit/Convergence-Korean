@@ -1,0 +1,1481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10011952">마지막으로 방문한 축복</text>
+<text id="13040000">더 이상 성배병의 회복량을 늘릴 수 없습니다.</text>
+<text id="13040020">성배병의 회복량이 늘었습니다.</text>
+<text id="13040100">붉은 물방울의 성배병을 가지고 있지 않습니다.</text>
+<text id="13040101">%null%</text>
+<text id="13040102">%null%</text>
+<text id="13040103">%null%</text>
+<text id="13040104">%null%</text>
+<text id="13040105">%null%</text>
+<text id="13040106">%null%</text>
+<text id="13040107">%null%</text>
+<text id="13040108">%null%</text>
+<text id="13040109">%null%</text>
+<text id="13040110">푸른 물방울의 성배병을 가지고 있지 않습니다.</text>
+<text id="13040111">%null%</text>
+<text id="13040112">%null%</text>
+<text id="13040113">%null%</text>
+<text id="13040114">%null%</text>
+<text id="13040115">%null%</text>
+<text id="13040116">%null%</text>
+<text id="13040117">%null%</text>
+<text id="13040118">%null%</text>
+<text id="13040119">%null%</text>
+<text id="13040120">이 이상 성배병의 사용 횟수를 늘릴 수 없습니다.</text>
+<text id="13040121">%null%</text>
+<text id="13040122">%null%</text>
+<text id="13040123">%null%</text>
+<text id="13040124">%null%</text>
+<text id="13040125">%null%</text>
+<text id="13040126">%null%</text>
+<text id="13040127">%null%</text>
+<text id="13040128">%null%</text>
+<text id="13040129">%null%</text>
+<text id="13040130">황금 종자를 가지고 있지 않습니다.</text>
+<text id="13040131">%null%</text>
+<text id="13040132">%null%</text>
+<text id="13040133">%null%</text>
+<text id="13040134">%null%</text>
+<text id="13040135">%null%</text>
+<text id="13040136">%null%</text>
+<text id="13040137">%null%</text>
+<text id="13040138">%null%</text>
+<text id="13040139">%null%</text>
+<text id="13040140">붉은 물방울의 성배병의 사용 횟수가 늘었습니다.</text>
+<text id="13040141">%null%</text>
+<text id="13040142">%null%</text>
+<text id="13040143">%null%</text>
+<text id="13040144">%null%</text>
+<text id="13040145">%null%</text>
+<text id="13040146">%null%</text>
+<text id="13040147">%null%</text>
+<text id="13040148">%null%</text>
+<text id="13040149">%null%</text>
+<text id="13040150">붉은 물방울의 성배병을 가지고 있지 않습니다.</text>
+<text id="13040151">%null%</text>
+<text id="13040152">%null%</text>
+<text id="13040153">%null%</text>
+<text id="13040154">%null%</text>
+<text id="13040155">%null%</text>
+<text id="13040156">%null%</text>
+<text id="13040157">%null%</text>
+<text id="13040158">%null%</text>
+<text id="13040159">%null%</text>
+<text id="13040160">푸른 물방울의 성배병을 가지고 있지 않습니다.</text>
+<text id="13040200">룬 일괄 소모</text>
+<text id="13040201">모든 황금의 룬을 소모합니다.</text>
+<text id="13040202">모든 추억을 소모합니다.</text>
+<text id="13040203">보유하고 있는 황금의 룬을 모두 소모하시겠습니까?</text>
+<text id="13040204">보유하고 있는 추억을 모두 소모하시겠습니까?</text>
+<text id="13040205">보유하고 있는 모든 황금의 룬을 사용하였습니다.</text>
+<text id="13040206">보유하고 있는 모든 추억을 사용하였습니다.</text>
+<text id="13040207">황금의 룬을 소지하고 있지않습니다.</text>
+<text id="13040208">추억을 소지하고 있지않습니다.</text>
+<text id="13040209">황금의 룬을 모두 소모하면 모든 플레이어에게 영향을 미칩니다. 계속하시겠습니까?</text>
+<text id="13040210">모든 추억을 소비하면 모든 플레이어에게 영향을 미칩니다. 계속하시겠습니까?</text>
+<text id="15000370">사용 횟수를 늘린다</text>
+<text id="15000371">성배병</text>
+<text id="15000372">그만둔다</text>
+<text id="15000373">%null%</text>
+<text id="15000374">%null%</text>
+<text id="15000375">%null%</text>
+<text id="15000376">%null%</text>
+<text id="15000377">%null%</text>
+<text id="15000378">%null%</text>
+<text id="15000379">%null%</text>
+<text id="15000380">회복량을 늘린다</text>
+<text id="15000381">%null%</text>
+<text id="15000382">%null%</text>
+<text id="15000383">%null%</text>
+<text id="15000384">%null%</text>
+<text id="15000385">사용 횟수 분배</text>
+<text id="15000386">%null%</text>
+<text id="15000387">%null%</text>
+<text id="15000388">%null%</text>
+<text id="15000389">%null%</text>
+<text id="15000390">기억</text>
+<text id="15000391">%null%</text>
+<text id="15000392">%null%</text>
+<text id="15000393">%null%</text>
+<text id="15000394">%null%</text>
+<text id="15000395">나무상자 정리</text>
+<text id="15000420">시간을 보낸다</text>
+<text id="15000421">%null%</text>
+<text id="15000422">%null%</text>
+<text id="15000423">%null%</text>
+<text id="15000424">%null%</text>
+<text id="15000425">%null%</text>
+<text id="15000426">%null%</text>
+<text id="15000427">%null%</text>
+<text id="15000428">%null%</text>
+<text id="15000429">%null%</text>
+<text id="15000430">아침까지</text>
+<text id="15000431">%null%</text>
+<text id="15000432">%null%</text>
+<text id="15000433">%null%</text>
+<text id="15000434">%null%</text>
+<text id="15000435">%null%</text>
+<text id="15000436">%null%</text>
+<text id="15000437">%null%</text>
+<text id="15000438">%null%</text>
+<text id="15000439">%null%</text>
+<text id="15000440">낮까지</text>
+<text id="15000441">%null%</text>
+<text id="15000442">%null%</text>
+<text id="15000443">%null%</text>
+<text id="15000444">%null%</text>
+<text id="15000445">%null%</text>
+<text id="15000446">%null%</text>
+<text id="15000447">%null%</text>
+<text id="15000448">%null%</text>
+<text id="15000449">%null%</text>
+<text id="15000450">밤까지</text>
+<text id="15000451">%null%</text>
+<text id="15000452">%null%</text>
+<text id="15000453">%null%</text>
+<text id="15000454">%null%</text>
+<text id="15000455">%null%</text>
+<text id="15000456">%null%</text>
+<text id="15000457">%null%</text>
+<text id="15000458">%null%</text>
+<text id="15000459">%null%</text>
+<text id="15000460">그만둔다</text>
+<text id="15000510">영약 배합</text>
+<text id="15000511">잔재 제작</text>
+<text id="15000512">%null%</text>
+<text id="15000513">%null%</text>
+<text id="15000514">%null%</text>
+<text id="15000515">%null%</text>
+<text id="15000516">%null%</text>
+<text id="15000517">%null%</text>
+<text id="15000518">%null%</text>
+<text id="15000519">%null%</text>
+<text id="15000520">거대한 룬</text>
+<text id="15000521">%null%</text>
+<text id="15000522">%null%</text>
+<text id="15000523">%null%</text>
+<text id="15000524">%null%</text>
+<text id="15000525">%null%</text>
+<text id="15000526">%null%</text>
+<text id="15000527">%null%</text>
+<text id="15000528">%null%</text>
+<text id="15000529">%null%</text>
+<text id="15000530">전회</text>
+<text id="15000531">%null%</text>
+<text id="15000532">%null%</text>
+<text id="15000533">%null%</text>
+<text id="15000534">%null%</text>
+<text id="15000535">%null%</text>
+<text id="15000536">%null%</text>
+<text id="15000537">%null%</text>
+<text id="15000538">%null%</text>
+<text id="15000539">%null%</text>
+<text id="15000540">레벨 업</text>
+<text id="15000700">구매한다</text>
+<text id="15000701">%null%</text>
+<text id="15000702">%null%</text>
+<text id="15000703">%null%</text>
+<text id="15000704">%null%</text>
+<text id="15000705">%null%</text>
+<text id="15000706">%null%</text>
+<text id="15000707">%null%</text>
+<text id="15000708">%null%</text>
+<text id="15000709">%null%</text>
+<text id="15000710">매각한다</text>
+<text id="15000711">%null%</text>
+<text id="15000712">%null%</text>
+<text id="15000713">%null%</text>
+<text id="15000714">%null%</text>
+<text id="15000715">%null%</text>
+<text id="15000716">%null%</text>
+<text id="15000717">%null%</text>
+<text id="15000718">%null%</text>
+<text id="15000719">%null%</text>
+<text id="15000720">떠난다</text>
+<text id="20000000">대화한다</text>
+<text id="20000001">%null%</text>
+<text id="20000002">%null%</text>
+<text id="20000003">%null%</text>
+<text id="20000004">%null%</text>
+<text id="20000005">%null%</text>
+<text id="20000006">%null%</text>
+<text id="20000007">%null%</text>
+<text id="20000008">%null%</text>
+<text id="20000009">떠난다</text>
+<text id="20000010">구매한다</text>
+<text id="20000011">매각한다</text>
+<text id="20010080">&lt;?nextLoopCount?&gt;주차 세계를 시작한다</text>
+<text id="20010101">그을리는 소리에 귀를 기울인다</text>
+<text id="20011000">성배의 물방울을 가지고 있지 않습니다.</text>
+<text id="20011001">성배의 물방울을 사용하여 성배병의 회복량을 늘리시겠습니까?</text>
+<text id="20011002">%null%</text>
+<text id="20011003">%null%</text>
+<text id="20011004">%null%</text>
+<text id="20011005">%null%</text>
+<text id="20011006">%null%</text>
+<text id="20011007">%null%</text>
+<text id="20011008">%null%</text>
+<text id="20011009">%null%</text>
+<text id="20011010">황금 종자가 부족합니다.</text>
+<text id="20011011">황금 종자를 사용하여 성배병 사용 횟수를 늘리시겠습니까?</text>
+<text id="20011012">황금 종자를 사용하여 성배병 사용 횟수를 늘리시겠습니까?</text>
+<text id="20011013">황금 종자를 사용하여 성배병 사용 횟수를 늘리시겠습니까?</text>
+<text id="20011014">황금 종자를 사용하여 성배병 사용 횟수를 늘리시겠습니까?</text>
+<text id="20011015">황금 종자를 사용하여 성배병 사용 횟수를 늘리시겠습니까?</text>
+<text id="20011016">%null%</text>
+<text id="20011017">%null%</text>
+<text id="20011018">%null%</text>
+<text id="20011019">%null%</text>
+<text id="20011020">지금은 축복에서 쉴 수 없습니다</text>
+<text id="20011021">%null%</text>
+<text id="20011022">%null%</text>
+<text id="20011023">%null%</text>
+<text id="20011024">%null%</text>
+<text id="20011025">%null%</text>
+<text id="20011026">%null%</text>
+<text id="20011027">%null%</text>
+<text id="20011028">%null%</text>
+<text id="20011029">%null%</text>
+<text id="20011030">투기 참전 중에는 선택하실 수 없습니다</text>
+<text id="20011031">투기 참전 중에는 선택하실 수 없습니다</text>
+<text id="20011032">투기 참전 중에는 선택하실 수 없습니다</text>
+<text id="20011080">&lt;?nextLoopCount?&gt;주차 세계를 시작하시겠습니까?</text>
+<text id="20011081">&lt;?nextLoopCount?&gt;주차 세계를 시작하면
+현재인 &lt;?loopCount?&gt;주차 세계로 돌아오실 수 없습니다.
+정말 &lt;?nextLoopCount?&gt;주차 세계를 시작하시겠습니까?</text>
+<text id="21000000">%null%</text>
+<text id="21000001">멜리나와 이야기한다</text>
+<text id="21000002">멜리나와 이야기한다</text>
+<text id="21000003">멜리나와 이야기한다</text>
+<text id="21000004">멜리나와 이야기한다</text>
+<text id="21000005">멜리나와 이야기한다</text>
+<text id="21000006">멜리나와 이야기한다</text>
+<text id="21000007">멜리나와 이야기한다</text>
+<text id="21000008">멜리나와 이야기한다</text>
+<text id="21000009">멜리나와 이야기한다</text>
+<text id="21000010">멜리나와 이야기한다</text>
+<text id="21000011">멜리나와 이야기한다</text>
+<text id="21000012">멜리나와 이야기한다</text>
+<text id="21000013">멜리나와 이야기한다</text>
+<text id="21000014">멜리나와 이야기한다</text>
+<text id="21000015">멜리나와 이야기한다</text>
+<text id="21000016">멜리나와 이야기한다</text>
+<text id="21000017">멜리나와 이야기한다</text>
+<text id="21000018">멜리나와 이야기한다</text>
+<text id="21000019">%null%</text>
+<text id="21000020">멜리나와 이야기한다</text>
+<text id="21000021">멜리나와 이야기한다</text>
+<text id="21000022">멜리나와 이야기한다</text>
+<text id="21000023">멜리나와 이야기한다</text>
+<text id="21000024">멜리나와 이야기한다</text>
+<text id="21000025">멜리나와 이야기한다</text>
+<text id="21000026">멜리나와 이야기한다</text>
+<text id="21000027">멜리나와 이야기한다</text>
+<text id="21000028">멜리나와 이야기한다</text>
+<text id="21000029">멜리나와 이야기한다</text>
+<text id="21000030">멜리나와 이야기한다</text>
+<text id="21000031">멜리나와 이야기한다</text>
+<text id="21000050">멜리나에게 원탁에 간다고 말한다</text>
+<text id="21001000">거래한다</text>
+<text id="21001001">거절한다</text>
+<text id="21001002">관심 있다</text>
+<text id="21001003">관심 없다</text>
+<text id="21001004">원탁에 가겠다</text>
+<text id="21001005">준비됐다</text>
+<text id="21001006">기다려 줘</text>
+<text id="21011000">오른손을 보인다</text>
+<text id="21011001">왼손을 보인다</text>
+<text id="21011002">손을 보인다</text>
+<text id="21011003">손을 보인다</text>
+<text id="21020000">추억에서 힘을 얻는다</text>
+<text id="21020001">거대한 룬에 대해</text>
+<text id="21020002">여왕 마리카에 대해</text>
+<text id="21020003">가시를 태울 방법</text>
+<text id="21020004">거절의 가시를 태우고 싶다</text>
+<text id="21020005">영웅의 방어구를 얻는다</text>
+<text id="21060900">작은 라니에게 말을 건다</text>
+<text id="21060901">작은 라니에게 말을 건다</text>
+<text id="21060902">작은 라니에게 말을 건다</text>
+<text id="21060903">라니와 이야기한다</text>
+<text id="21060904">%null%</text>
+<text id="21060905">%null%</text>
+<text id="21060906">%null%</text>
+<text id="21060907">%null%</text>
+<text id="21060908">%null%</text>
+<text id="21060909">%null%</text>
+<text id="21060910">라니와 이야기한다</text>
+<text id="21060911">라니와 이야기한다</text>
+<text id="21060912">라니와 이야기한다</text>
+<text id="21060913">%null%</text>
+<text id="21060914">%null%</text>
+<text id="21060915">%null%</text>
+<text id="21060916">%null%</text>
+<text id="21060917">%null%</text>
+<text id="21060918">%null%</text>
+<text id="21060919">%null%</text>
+<text id="21060920">라니와 이야기한다</text>
+<text id="21060921">라니와 이야기한다</text>
+<text id="21060922">%null%</text>
+<text id="21060923">%null%</text>
+<text id="21060924">%null%</text>
+<text id="21060925">%null%</text>
+<text id="21060926">%null%</text>
+<text id="21060927">%null%</text>
+<text id="21060928">%null%</text>
+<text id="21060929">%null%</text>
+<text id="21060930">작은 라니에게 말을 건다</text>
+<text id="21060931">라니와 이야기한다</text>
+<text id="21061000">영마를 불렀다</text>
+<text id="21061001">부르지 않았다</text>
+<text id="21061002">영마를 불렀다</text>
+<text id="21061003">부르지 않았다</text>
+<text id="21061004">마녀 라니, 음모의 밤의 주범이지?</text>
+<text id="21061005">당신을 섬기고 싶다</text>
+<text id="21061006">딱히 볼일은 없다</text>
+<text id="21061007">마녀 라니를 섬긴다</text>
+<text id="21061008">섬기지 않는다</text>
+<text id="21061009">「호박색 정약」을 마시게 하시겠습니까?</text>
+<text id="21121000">「라다곤은 마리카다」라고 전한다</text>
+<text id="22000000">다시 태어나기</text>
+<text id="22000001">화장</text>
+<text id="22000002">떠나기</text>
+<text id="22000003">%null%</text>
+<text id="22001000">「물방울 유생」을 사용해 다시 태어나시겠습니까?</text>
+<text id="22001001">다시 태어나지 않아 「물방울 유생」은 소비되지 않습니다</text>
+<text id="22001002">다시 태어나려면 「물방울 유생」이 필요합니다</text>
+<text id="22021003">전달할 수량을 선택하십시오</text>
+<text id="22130001">무기 강화</text>
+<text id="22130002">무기 수복</text>
+<text id="22130003">전회</text>
+<text id="22130004">기도에 대해</text>
+<text id="22130005">로데리카에 대해</text>
+<text id="22130006">로데리카에 대해</text>
+<text id="22130007">로데리카에 대해</text>
+<text id="22130008">로데리카에 대해</text>
+<text id="22130009">조금만 이야기를</text>
+<text id="22130010">발밑의 사슬에 대해</text>
+<text id="22130011">포로?</text>
+<text id="22130012">신을 죽일 무기에 대해</text>
+<text id="22130013">신을 죽일 무기에 대해</text>
+<text id="22130014">왜 아직 무기를 벼리는가</text>
+<text id="22130015">그녀는 뭐라고 했나</text>
+<text id="22130016">당신에 대해</text>
+<text id="22130017">거기 있는 작은 칼은?</text>
+<text id="22130018">전회 복제</text>
+<text id="22131000">로데리카를 맡지 않겠는가</text>
+<text id="22131001">아무것도 아니다</text>
+<text id="22131002">그녀가 그러기를 원한다</text>
+<text id="22131003">알았다</text>
+<text id="22161000">아직 모르겠다</text>
+<text id="22161001">셀렌의 이야기를 전한다</text>
+<text id="22161002">아무 말도 전하지 않는다</text>
+<text id="22161003">이지의 이야기를 전한다</text>
+<text id="22161004">봉인감옥을 연다</text>
+<text id="22161005">열지 않는다</text>
+<text id="22201000">탈출을 돕는다</text>
+<text id="22201001">돕지 않는다</text>
+<text id="22230000">의상 조정</text>
+<text id="22230001">어쩌면…?</text>
+<text id="22230002">죄송해요…</text>
+<text id="22230003">「황금 재봉 바늘」을 준다</text>
+<text id="22230004">기뻐해 주실까요?</text>
+<text id="22230005">생각하신 적은 있으신가요?</text>
+<text id="22230006">「물방울 유생」을 준다</text>
+<text id="22230007">기다려주세요</text>
+<text id="22230008">사실은 어떻게 생각하시나요?</text>
+<text id="22230009">목소리가 들렸어요</text>
+<text id="22230010">그건 내가 한 말이다</text>
+<text id="22230011">부탁이 있어요</text>
+<text id="22230012">왕이라 부르는 것을 허락한다</text>
+<text id="22230013">보셨나요?</text>
+<text id="22231000">「재봉 바늘」을 준다</text>
+<text id="22231001">주지 않는다</text>
+<text id="22231002">왕이라 부르는 것을 허락한다</text>
+<text id="22231003">허락하지 않는다</text>
+<text id="22231004">그렇다</text>
+<text id="22231005">아니다</text>
+<text id="22240000">무기 강화</text>
+<text id="22240001">이야기를 한다</text>
+<text id="22240002">조심하십시오</text>
+<text id="22240003">노크론에 대해</text>
+<text id="22240004">%null%</text>
+<text id="22240005">블라이드에 대해</text>
+<text id="22240006">제렌에 대해</text>
+<text id="22240007">축제의 땅으로 가십시오</text>
+<text id="22240008">이야기를 한다</text>
+<text id="22240009">블라이드에 대해</text>
+<text id="22240010">제렌에 대해</text>
+<text id="22240011">블라이드는 왜 봉인감옥에?</text>
+<text id="22240012">블라이드의 최후</text>
+<text id="22240013">충고에 대해</text>
+<text id="22240014">블라이드에게 소개받았다</text>
+<text id="22240015">이야기를 한다</text>
+<text id="22240016">제렌에 대해</text>
+<text id="22240017">이야기를 한다</text>
+<text id="22240018">이야기를 한다</text>
+<text id="22240019">%null%</text>
+<text id="22240020">구매한다</text>
+<text id="22241010">멀티 플레이 중에는 선택하실 수 없습니다</text>
+<text id="22261000">도공이 되겠다</text>
+<text id="22261001">되지 않겠다</text>
+<text id="22261002">「알렉산더의 내용물」을 준다</text>
+<text id="22261003">주지 않는다</text>
+<text id="22281000">비부절을 보인다</text>
+<text id="22281001">보이지 않는다</text>
+<text id="22281002">부탁을 듣는다</text>
+<text id="22281003">거절한다</text>
+<text id="22281004">역시 부탁을 듣는다</text>
+<text id="22281005">떠난다</text>
+<text id="23001000">화산관의 일원이 된다</text>
+<text id="23001001">되지 않는다</text>
+<text id="23001002">%null%</text>
+<text id="23001003">%null%</text>
+<text id="23001004">왕을 뵙는다</text>
+<text id="23001005">뵈지 않는다</text>
+<text id="23001006">떠난다</text>
+<text id="23001007">조라야스의 모습</text>
+<text id="23001008">조라야스의 고민</text>
+<text id="23001009">조라야스의 부재</text>
+<text id="23001010">약을 먹게 했다</text>
+<text id="23001011">조라야스는 죽었다</text>
+<text id="23001012">「무희의 타악기」를 준다</text>
+<text id="23001013">주지 않는다</text>
+<text id="23011000">진정한 일원을 목표로 한다</text>
+<text id="23011001">목표로 하지 않는다</text>
+<text id="23011002">위화감이 들었다</text>
+<text id="23011003">훌륭했다</text>
+<text id="23011004">기사가 된다</text>
+<text id="23011005">되지 않는다</text>
+<text id="23011006">두 손가락에는 위화감이 들었다</text>
+<text id="23011007">훌륭했다</text>
+<text id="23021000">아니다, 정문으로 들어가겠다</text>
+<text id="23021001">알았다</text>
+<text id="23021002">정문으로 들어가고 싶다</text>
+<text id="23021003">떠난다</text>
+<text id="23021004">%null%</text>
+<text id="23021005">%null%</text>
+<text id="23021006">%null%</text>
+<text id="23021007">%null%</text>
+<text id="23021008">%null%</text>
+<text id="23021009">%null%</text>
+<text id="23021010">장치로 잠겨있다</text>
+<text id="23070006">마술을 배운다</text>
+<text id="23070007">꼭두각시를 얻는다</text>
+<text id="23070008">지하실에 대해</text>
+<text id="23070009">노크론에 대해</text>
+<text id="23070010">새 꼭두각시를 가지고 싶다</text>
+<text id="23070011">비밀 이야기</text>
+<text id="23070012">「호박색 별빛」을 준다</text>
+<text id="23070013">정약에 대해</text>
+<text id="23070014">정약에 대해</text>
+<text id="23070015">비밀에 대해</text>
+<text id="23070016">네펠리에 대해</text>
+<text id="23070017">이야기를 한다</text>
+<text id="23070018">호박색 별빛에 대해</text>
+<text id="23070019">스크롤을 건넨다</text>
+<text id="23070020">구매한다</text>
+<text id="23071001">심부름을 한다</text>
+<text id="23071002">하지 않는다</text>
+<text id="23071003">%null%</text>
+<text id="23071004">%null%</text>
+<text id="23071005">%null%</text>
+<text id="23071006">%null%</text>
+<text id="23071007">%null%</text>
+<text id="23071008">%null%</text>
+<text id="23071009">관심 있다</text>
+<text id="23071010">없다</text>
+<text id="23071011">%null%</text>
+<text id="23071012">%null%</text>
+<text id="23071013">%null%</text>
+<text id="23071014">노크론에 대해 묻는다</text>
+<text id="23071015">떠난다</text>
+<text id="23090000">강도단에 대해</text>
+<text id="23090001">저 보물상자…</text>
+<text id="23090002">이야기를 한다</text>
+<text id="23090003">아까 하던 이야기</text>
+<text id="23090004">그러고 보니…</text>
+<text id="23090005">%null%</text>
+<text id="23090006">이야기를 한다</text>
+<text id="23090007">아까 하던 이야기</text>
+<text id="23090008">아까 그 의뢰</text>
+<text id="23090009">아까 그 의뢰</text>
+<text id="23090010">의뢰는 끝났다</text>
+<text id="23090011">패치에 대해</text>
+<text id="23090012">의뢰 보수는?</text>
+<text id="23091000">없었던 일로 친다</text>
+<text id="23091001">용서하지 않는다</text>
+<text id="23101000">편지를 전달한다</text>
+<text id="23101001">거절한다</text>
+<text id="23101002">그것은 사람의 눈이다</text>
+<text id="23101003">아무 말도 하지 않는다</text>
+<text id="23101004">「샤브리리의 포도」를 준다</text>
+<text id="23101005">주지 않는다</text>
+<text id="23101006">「손가락 자국의 포도」를 준다</text>
+<text id="23101007">%null%</text>
+<text id="23101008">%null%</text>
+<text id="23101009">죽어있다</text>
+<text id="23111000">「일레나의 편지」를 준다</text>
+<text id="23111001">주지 않는다</text>
+<text id="23121000">축제는 좋아한다</text>
+<text id="23121001">좋아하지 않는다</text>
+<text id="23121002">%null%</text>
+<text id="23121003">이지에 대해</text>
+<text id="23121004">준비됐다</text>
+<text id="23121005">아직 안 됐다</text>
+<text id="23131000">부탁을 듣는다</text>
+<text id="23131001">거절한다</text>
+<text id="23131002">라야의 손을 잡는다</text>
+<text id="23131003">잡지 않는다</text>
+<text id="23131004">화산관의 이면을 전한다</text>
+<text id="23131005">전하지 않는다</text>
+<text id="23131006">「뱀의 양막」을 준다</text>
+<text id="23131007">주지 않는다</text>
+<text id="23131008">%null%</text>
+<text id="23131009">「망각의 비약」을 준다</text>
+<text id="23131010">「라야의 목걸이」를 준다</text>
+<text id="23131011">주지 않는다</text>
+<text id="23131012">주지 않는다</text>
+<text id="23141000">지켰다</text>
+<text id="23141001">지키지 못했다</text>
+<text id="23160003">마술을 배운다</text>
+<text id="23160004">%null%</text>
+<text id="23160005">%null%</text>
+<text id="23160006">나중에 할 이야기가 있다</text>
+<text id="23160007">부탁에 대해</text>
+<text id="23160008">부탁에 대해</text>
+<text id="23160009">소개장을 보인다</text>
+<text id="23160010">아줄의 마술을 보인다</text>
+<text id="23160011">이야기라니?</text>
+<text id="23160012">역시 원류의 부흥을 돕는다</text>
+<text id="23160013">너에게 부탁이 있다</text>
+<text id="23160014">루사트가 있는 곳을 말한다</text>
+<text id="23160015">휘석 마술에 대해</text>
+<text id="23160016">이야기를 한다</text>
+<text id="23160017">이야기를 한다</text>
+<text id="23160018">루사트에 대해</text>
+<text id="23160019">루사트가 있는 곳을 말한다</text>
+<text id="23160020">스크롤을 건넨다</text>
+<text id="23160021">「교실의 스크롤」을 건넨다</text>
+<text id="23160022">「왕가의 스크롤」을 건넨다</text>
+<text id="23160023">라니의 스크롤을 건넨다</text>
+<text id="23160024">사리아의 스크롤을 건넨다</text>
+<text id="23160025">겔미어의 스크롤을 건넨다</text>
+<text id="23160026">건네지 않는다</text>
+<text id="23160027">루사트의 단서</text>
+<text id="23160028">「학원의 스크롤」을 건넨다</text>
+<text id="23161000">마술을 배우고 싶다</text>
+<text id="23161001">용건은 없다</text>
+<text id="23161002">그래도 좋다</text>
+<text id="23161003">생각해보겠다</text>
+<text id="23161004">%null%</text>
+<text id="23161005">%null%</text>
+<text id="23161006">함께 걷겠다</text>
+<text id="23161007">생각해보겠다</text>
+<text id="23161008">소개장을 보인다</text>
+<text id="23161009">보이지 않는다</text>
+<text id="23161010">그래도 마술을 배우고 싶다</text>
+<text id="23161011">좀 더 생각해보겠다</text>
+<text id="23161012">새로운 마술을 배울 수 있게 되었습니다</text>
+<text id="23190000">기도를 배운다</text>
+<text id="23190001">D에 대해</text>
+<text id="23190002">로지에르에 대해</text>
+<text id="23190003">「삼켜진 단검」을 준다</text>
+<text id="23191002">소개를 받는다</text>
+<text id="23191003">거절한다</text>
+<text id="23191004">사근을 보인다</text>
+<text id="23191005">보이지 않는다</text>
+<text id="23191006">「삼켜진 단검」을 준다</text>
+<text id="23191007">주지 않는다</text>
+<text id="23191008">「쌍생아의 갑옷」 한 벌을 준다</text>
+<text id="23191009">주지 않는다</text>
+<text id="23191010">「쌍생아의 갑옷」 한 벌을 주겠습니까?</text>
+<text id="23191011">지도에 붉은 표시가 그려졌습니다</text>
+<text id="23200000">조령</text>
+<text id="23200001">이야기를 한다</text>
+<text id="23200002">휴그에 대해</text>
+<text id="23200003">휴그의 이변</text>
+<text id="23200004">알려두고 싶은 것</text>
+<text id="23200005">알려두고 싶은 것</text>
+<text id="23200006">영들의 목소리에 대해</text>
+<text id="23200007">조심하십시오</text>
+<text id="23200008">영들의 목소리에 대해</text>
+<text id="23200009">부탁</text>
+<text id="23200010">이야기를 한다</text>
+<text id="23200011">이야기를 한다</text>
+<text id="23201002">「번데기들의 유품」을 준다</text>
+<text id="23201003">대장장이의 말을 전한다</text>
+<text id="23201004">전하지 않는다</text>
+<text id="23201005">%null%</text>
+<text id="23201006">%null%</text>
+<text id="23201007">%null%</text>
+<text id="23201008">%null%</text>
+<text id="23201009">%null%</text>
+<text id="23201010">투기 참전 중에는 선택하실 수 없습니다</text>
+<text id="23211000">케네스 하이트를 섬긴다</text>
+<text id="23211001">섬기지 않는다</text>
+<text id="23220000">은밀한 이야기</text>
+<text id="23220001">부탁을 드려도 될까요</text>
+<text id="23220002">준 단검에 대해</text>
+<text id="23220003">알고 계시나요?</text>
+<text id="23220004">검은 칼날의 각인에 대해</text>
+<text id="23220005">검은 칼날의 각인에 대해</text>
+<text id="23220006">로지에르에 대해</text>
+<text id="23220007">은밀한 이야기</text>
+<text id="23220008">은밀한 이야기</text>
+<text id="23220009">은밀한 이야기</text>
+<text id="23220010">은밀한 이야기</text>
+<text id="23220011">은밀한 이야기</text>
+<text id="23220012">「죽음의 주흔」을 준다</text>
+<text id="23220013">%null%</text>
+<text id="23220014">은밀한 이야기</text>
+<text id="23221000">안긴다</text>
+<text id="23221001">거절한다</text>
+<text id="23221002">그렇다</text>
+<text id="23221003">아니다, 안기고 싶다</text>
+<text id="23221004">동침의 꿈에 들어간다</text>
+<text id="23221005">들어가지 않는다</text>
+<text id="23221006">동침의 꿈에 들어가시겠습니까?</text>
+<text id="23221007">간이 지도를 입수했습니다
+인벤토리에서 확인해 주십시오</text>
+<text id="23231000">감옥에서 나와라</text>
+<text id="23231001">아무 말 하지 않는다</text>
+<text id="23231002">「셀브스의 정약」을 마시게 한다</text>
+<text id="23231003">「모판의 저주」를 사용한다</text>
+<text id="23231004">떠난다</text>
+<text id="23240000">%null%</text>
+<text id="23240001">%null%</text>
+<text id="23240002">%null%</text>
+<text id="23240003">%null%</text>
+<text id="23240004">%null%</text>
+<text id="23240005">%null%</text>
+<text id="23240006">%null%</text>
+<text id="23240007">네펠리에 대해</text>
+<text id="23240008">네펠리의 실의</text>
+<text id="23240009">엔샤에 대해</text>
+<text id="23240010">엔샤에 대해</text>
+<text id="23240011">%null%</text>
+<text id="23240012">고드릭에 대해</text>
+<text id="23240013">라단에 대해</text>
+<text id="23240014">라이커드에 대해</text>
+<text id="23240015">모르고트에 대해</text>
+<text id="23240016">레날라에 대해</text>
+<text id="23240017">어디 있는지 모르는 데미갓</text>
+<text id="23240018">라단에 대해</text>
+<text id="23240019">라이커드에 대해</text>
+<text id="23240020">레날라에 대해</text>
+<text id="23240021">비부절의 정보</text>
+<text id="23240022">비부절이 모였다</text>
+<text id="23240023">이야기를 한다</text>
+<text id="23240024">가야할 곳</text>
+<text id="23240025">이야기를 한다</text>
+<text id="23240026">이야기를 한다</text>
+<text id="23240027">비부절을 사용한 너머</text>
+<text id="23240028">성수의 뿌리에 대해</text>
+<text id="23240029">모그윈 왕조</text>
+<text id="23240030">피의 군주의 고치에 대해</text>
+<text id="23240031">「셀브스의 정약」을 보인다</text>
+<text id="23240032">「셀브스의 정약」을 기드온에게 준다</text>
+<text id="23240033">엔샤에 대해</text>
+<text id="23240034">비부절의 정보</text>
+<text id="23240035">피의 군주의 고치에 대해</text>
+<text id="23241000">식객?</text>
+<text id="23241001">아무 말 하지 않는다</text>
+<text id="23241002">정약을 건넨다</text>
+<text id="23241003">건네지 않는다</text>
+<text id="23241004">지도에 빨간 표시가 그려졌습니다</text>
+<text id="23250000">전투 기술을 배운다</text>
+<text id="23250001">이야기를 한다</text>
+<text id="23250002">고드릭을 쓰러뜨렸다</text>
+<text id="23250003">스톰빌 지하의 시체</text>
+<text id="23250004">「검은 칼날의 각인」을 준다</text>
+<text id="23250005">라니는 주흔을 버렸다</text>
+<text id="23250006">%null%</text>
+<text id="23250007">D에 대해</text>
+<text id="23250008">왜 주흔을 구하는가</text>
+<text id="23250009">D에 대해</text>
+<text id="23250010">로지에르의 제안</text>
+<text id="23250011">D에 대해</text>
+<text id="23250012">스톰빌 지하의 사체</text>
+<text id="23250013">라니의 거처</text>
+<text id="23250014">라니의 거처</text>
+<text id="23250015">이야기를 한다</text>
+<text id="23251000">성의 주인에 도전한다</text>
+<text id="23251001">답하지 않는다</text>
+<text id="23251002">%null%</text>
+<text id="23251003">%null%</text>
+<text id="23251004">「검은 칼날의 각인」을 줬습니다</text>
+<text id="23260000">전투 기술을 배운다</text>
+<text id="23260001">이야기를 한다</text>
+<text id="23260002">이야기를 한다</text>
+<text id="23261000">믿을 수 있다</text>
+<text id="23261001">모르겠다</text>
+<text id="23261002">안다</text>
+<text id="23261003">모른다</text>
+<text id="23300000">마술을 배운다</text>
+<text id="23300001">속죄한다</text>
+<text id="23300002">별의 물방울을 보인다</text>
+<text id="23300003">이야기를 한다</text>
+<text id="23300004">%null%</text>
+<text id="23300005">기적에 대해</text>
+<text id="23300006">속죄에 대해</text>
+<text id="23300007">라다곤에 대해</text>
+<text id="23300008">라다곤에 대해</text>
+<text id="23300009">레날라에 대해</text>
+<text id="23300010">레날라에 대해</text>
+<text id="23300011">스크롤을 건넨다</text>
+<text id="23300012">기도서를 건넨다</text>
+<text id="23300013">기도를 배운다</text>
+<text id="23301000">모른다</text>
+<text id="23301001">당신은 속죄할 필요가 없습니다</text>
+<text id="23301002">「별의 물방울」을 가지고 있지 않습니다</text>
+<text id="23301003">「별의 물방울」을 사용해 속죄하시겠습니까?</text>
+<text id="23301004">당신의 죄가 사해졌습니다</text>
+<text id="23310000">라야에 대해</text>
+<text id="23310001">이야기를 한다</text>
+<text id="23310002">…말해두는 게 좋겠네</text>
+<text id="23310003">대변 먹는 자에 대해</text>
+<text id="23310004">대변 먹는 자에 대해</text>
+<text id="23311000">목걸이를 달라</text>
+<text id="23311001">떠난다</text>
+<text id="23311002">알았다</text>
+<text id="23311003">거절한다</text>
+<text id="23330000">마술을 배운다</text>
+<text id="23330001">이야기를 한다</text>
+<text id="23330002">휘석 열쇠에 대해</text>
+<text id="23330003">%null%</text>
+<text id="23330004">이야기를 한다</text>
+<text id="23330005">「학원의 휘석 열쇠」를 준다</text>
+<text id="23330006">셀렌에 대해</text>
+<text id="23330007">%null%</text>
+<text id="23330008">휘석 열쇠에 대해</text>
+<text id="23330009">스크롤을 건넨다</text>
+<text id="23330010">건네지 않는다</text>
+<text id="23331000">&lt;?evntAcquittalPrice?&gt;룬을 준다</text>
+<text id="23331001">주지 않는다</text>
+<text id="23331002">%null%</text>
+<text id="23331003">룬이 부족합니다</text>
+<text id="23341000">「셀브스의 정약」을 준다</text>
+<text id="23341001">「폭풍 매의 옛 왕」을 준다</text>
+<text id="23341002">기드온에게 이야기는 들었다</text>
+<text id="23341003">떠난다</text>
+<text id="23351001">%null%</text>
+<text id="23481000">「무구한 금의 침」을 준다</text>
+<text id="23481001">주지 않는다</text>
+<text id="23481002">「전쟁 처녀의 의수」를 준다</text>
+<text id="23490000">마술을 배운다</text>
+<text id="23490001">밀리센트가 찾아왔다</text>
+<text id="23490002">밀리센트에게 의수를 줬다</text>
+<text id="23490003">밀리센트에 대해</text>
+<text id="23490004">말레니아에 대해</text>
+<text id="23490005">밀리센트가 한 말</text>
+<text id="23490006">울고 있던 이유</text>
+<text id="23490007">%null%</text>
+<text id="23490008">%null%</text>
+<text id="23490009">꽃이 된다고?</text>
+<text id="23490010">꽃이 된다고?</text>
+<text id="23490011">기도를 배운다</text>
+<text id="23491000">부탁을 듣는다</text>
+<text id="23491001">거절한다</text>
+<text id="23510000">기도를 배운다</text>
+<text id="23510001">이야기를 한다</text>
+<text id="23510002">금가면 경에 대해</text>
+<text id="23510003">금가면 경이 있는 곳을 말한다</text>
+<text id="23510004">금가면 경에 대해</text>
+<text id="23510005">금가면 경에 대해</text>
+<text id="23510006">금가면 경에 대해</text>
+<text id="23510007">금가면 경에 대해</text>
+<text id="23510008">금가면 경에 대해</text>
+<text id="23510009">「망각의 비약」을 준다</text>
+<text id="23510010">기도서를 건넨다</text>
+<text id="23510011">「불의 승병의 기도서」를 건넨다</text>
+<text id="23510012">「거인의 기도서」를 건넨다</text>
+<text id="23510013">「신의 살갗의 기도서」를 건넨다</text>
+<text id="23510014">「두 손가락의 기도서」를 건넨다</text>
+<text id="23510015">「암부의 기도서」를 건넨다</text>
+<text id="23510016">황금 나무의 기도서를 건넨다</text>
+<text id="23510017">황금 나무의 고문서를 건넨다</text>
+<text id="23510018">「황금률원론」을 건넨다</text>
+<text id="23510019">황금률 원론를 건넨다</text>
+<text id="23510020">「용신앙의 기도서」를 건넨다</text>
+<text id="23510021">「옛 용의 기도서」를 건넨다</text>
+<text id="23510022">건네지 않는다</text>
+<text id="23511000">보인다</text>
+<text id="23511001">보이지 않는다</text>
+<text id="26000000">방울을 바친다</text>
+<text id="26000001">그만둔다</text>
+<text id="26000002">%null%</text>
+<text id="26000003">%null%</text>
+<text id="26000004">돌아간다</text>
+<text id="26000005">%null%</text>
+<text id="26000006">%null%</text>
+<text id="26000007">%null%</text>
+<text id="26000008">%null%</text>
+<text id="26000009">%null%</text>
+<text id="26000010">구매한다</text>
+<text id="26000011">방울 거래 1</text>
+<text id="26000012">방울 거래 2</text>
+<text id="26000013">방울 거래 3</text>
+<text id="26000014">방울 거래 4</text>
+<text id="26000015">%null%</text>
+<text id="26000016">%null%</text>
+<text id="26000017">%null%</text>
+<text id="26000018">%null%</text>
+<text id="26000019">%null%</text>
+<text id="26000020">셀렌의 방울</text>
+<text id="26000021">셀브스의 방울</text>
+<text id="26000022">셀브스의 방울</text>
+<text id="26000023">토푸스의 방울</text>
+<text id="26000024">콜린의 방울</text>
+<text id="26000025">미리엘의 방울(마술)</text>
+<text id="26000026">D의 방울</text>
+<text id="26000027">고리의 방울(마술)</text>
+<text id="26000028">로지에르의 방울</text>
+<text id="26000029">베르나르의 방울</text>
+<text id="26000030">이지의 방울</text>
+<text id="26000031">미리엘의 방울(기도)</text>
+<text id="26000032">고리의 방울(기도)</text>
+<text id="26000033">%null%</text>
+<text id="26000034">%null%</text>
+<text id="26000035">%null%</text>
+<text id="26000036">%null%</text>
+<text id="26000037">%null%</text>
+<text id="26000038">%null%</text>
+<text id="26000039">%null%</text>
+<text id="26000040">고스토크의 방울</text>
+<text id="26000041">피디의 방울</text>
+<text id="26000042">패치의 방울</text>
+<text id="26000043">불량배의 방울</text>
+<text id="26000044">%null%</text>
+<text id="26000045">%null%</text>
+<text id="26000046">%null%</text>
+<text id="26000047">%null%</text>
+<text id="26000048">%null%</text>
+<text id="26000049">%null%</text>
+<text id="26000050">방랑 상인의 방울[1]</text>
+<text id="26000051">방랑 상인의 방울[2]</text>
+<text id="26000052">방랑 상인의 방울[3]</text>
+<text id="26000053">방랑 상인의 방울[4]</text>
+<text id="26000054">방랑 상인의 방울[5]</text>
+<text id="26000055">방랑 상인의 방울[6]</text>
+<text id="26000056">방랑 상인의 방울[7]</text>
+<text id="26000057">방랑 상인의 방울[8]</text>
+<text id="26000058">방랑 상인의 방울[9]</text>
+<text id="26000059">방랑 상인의 방울[10]</text>
+<text id="26000060">방랑 상인의 방울[11]</text>
+<text id="26000061">%null%</text>
+<text id="26000062">%null%</text>
+<text id="26000063">%null%</text>
+<text id="26000064">%null%</text>
+<text id="26000065">%null%</text>
+<text id="26000066">%null%</text>
+<text id="26000067">%null%</text>
+<text id="26000068">%null%</text>
+<text id="26000069">%null%</text>
+<text id="26000070">칼레의 방울</text>
+<text id="26000071">은둔 상인의 방울[1]</text>
+<text id="26000072">은둔 상인의 방울[2]</text>
+<text id="26000073">속세를 떠난 상인의 방울[1]</text>
+<text id="26000074">은둔 상인의 방울[3]</text>
+<text id="26000075">속세를 떠난 상인의 방울[2]</text>
+<text id="26000076">남겨진 상인의 방울</text>
+<text id="26000077">속세를 떠난 상인의 방울[3]</text>
+<text id="26000078">붙잡힌 상인의 방울</text>
+<text id="26000110">피디의 방울을 바친다</text>
+<text id="26000111">셀브스의 방울을 바친다</text>
+<text id="26000112">패치의 방울을 바친다</text>
+<text id="26000113">셀렌의 방울을 바친다</text>
+<text id="26000114">%null%</text>
+<text id="26000115">D의 방울을 바친다</text>
+<text id="26000116">베르나르의 방울을 바친다</text>
+<text id="26000117">미리엘의 방울을 바친다</text>
+<text id="26000118">고스토크의 방울을 바친다</text>
+<text id="26000119">토푸스의 방울을 바친다</text>
+<text id="26000120">칼레의 방울을 바친다</text>
+<text id="26000121">방랑 상인의 방울[1]을 바친다</text>
+<text id="26000122">방랑 상인의 방울[2]를 바친다</text>
+<text id="26000123">방랑 상인의 방울[3]을 바친다</text>
+<text id="26000124">방랑 상인의 방울[4]를 바친다</text>
+<text id="26000125">방랑 상인의 방울[5]를 바친다</text>
+<text id="26000126">은둔 상인의 방울[1]을 바친다</text>
+<text id="26000127">은둔 상인의 방울[2]를 바친다</text>
+<text id="26000128">방랑 상인의 방울[6]을 바친다</text>
+<text id="26000129">속세를 떠난 상인의 방울[1]을 바친다</text>
+<text id="26000130">방랑 상인의 방울[7]을 바친다</text>
+<text id="26000131">방랑 상인의 방울[8]을 바친다</text>
+<text id="26000132">방랑 상인의 방울[9]를 바친다</text>
+<text id="26000133">방랑 상인의 방울[10]을 바친다</text>
+<text id="26000134">방랑 상인의 방울[11]을 바친다</text>
+<text id="26000135">은둔 상인의 방울[3]을 바친다</text>
+<text id="26000136">속세를 떠난 상인의 방울[2]를 바친다</text>
+<text id="26000137">남겨진 상인의 방울을 바친다</text>
+<text id="26000138">속세를 떠난 상인의 방울[3]을 바친다</text>
+<text id="26000139">붙잡힌 상인의 방울을 바친다</text>
+<text id="26000140">이지의 방울을 바친다</text>
+<text id="26000141">로지에르의 방울을 바친다</text>
+<text id="26000142">불량배의 방울을 바친다</text>
+<text id="26000143">콜린의 방울을 바친다</text>
+<text id="26000144">고리의 방울을 바친다</text>
+<text id="26000145">뼈 장사꾼의 방울을 바친다</text>
+<text id="26000146">고기 장사꾼의 방울을 바친다</text>
+<text id="26000147">약 장사꾼의 방울을 바친다</text>
+<text id="26000148">중력 장사꾼의 방울을 바친다</text>
+<text id="26000149">%null%</text>
+<text id="26000150">%null%</text>
+<text id="26000151">단석 채석꾼의 방울[1]을 바친다</text>
+<text id="26000152">단석 채석꾼의 방울[2]를 바친다</text>
+<text id="26000153">단석 채석꾼의 방울[3]을 바친다</text>
+<text id="26000154">단석 채석꾼의 방울[4]를 바친다</text>
+<text id="26000155">색 잃은 채석꾼의 방울[1]을 바친다</text>
+<text id="26000156">색 잃은 채석꾼의 방울[2]를 바친다</text>
+<text id="26000157">색 잃은 채석꾼의 방울[3]을 바친다</text>
+<text id="26000158">색 잃은 채석꾼의 방울[4]를 바친다</text>
+<text id="26000159">색 잃은 채석꾼의 방울[5]를 바친다</text>
+<text id="26000160">은방울꽃 채취자의 방울[1]을 바친다</text>
+<text id="26000161">은방울꽃 채취자의 방울[2]를 바친다</text>
+<text id="26000162">은방울꽃 채취자의 방울[3]을 바친다</text>
+<text id="26000163">영혼 꽃 채취자의 방울[1]을 바친다</text>
+<text id="26000164">영혼 꽃 채취자의 방울[2]를 바친다</text>
+<text id="26000165">영혼 꽃 채취자의 방울[3]을 바친다</text>
+<text id="26001000">아직 방울을 바치지 않았습니다</text>
+<text id="26001001">바칠 방울이 없습니다</text>
+<text id="26001110">피디의 방울을 바쳤습니다</text>
+<text id="26001111">셀브스의 방울을 바쳤습니다</text>
+<text id="26001112">패치의 방울을 바쳤습니다</text>
+<text id="26001113">셀렌의 방울을 바쳤습니다</text>
+<text id="26001114">지코의 방울을 바쳤습니다</text>
+<text id="26001115">D의 방울을 바쳤습니다</text>
+<text id="26001116">베르나르의 방울을 바쳤습니다</text>
+<text id="26001117">미리엘의 방울을 바쳤습니다</text>
+<text id="26001118">고스토크의 방울을 바쳤습니다</text>
+<text id="26001119">토푸스의 방울을 바쳤습니다</text>
+<text id="26001120">칼레의 방울을 바쳤습니다</text>
+<text id="26001121">방랑 상인의 방울[1]을 바쳤습니다</text>
+<text id="26001122">방랑 상인의 방울[2]를 바쳤습니다</text>
+<text id="26001123">방랑 상인의 방울[3]을 바쳤습니다</text>
+<text id="26001124">방랑 상인의 방울[4]를 바쳤습니다</text>
+<text id="26001125">방랑 상인의 방울[5]를 바쳤습니다</text>
+<text id="26001126">은둔 상인의 방울[1]을 바쳤습니다</text>
+<text id="26001127">은둔 상인의 방울[2]를 바쳤습니다</text>
+<text id="26001128">방랑 상인의 방울[6]을 바쳤습니다</text>
+<text id="26001129">속세를 떠난 상인의 방울[1]을 바쳤습니다</text>
+<text id="26001130">방랑 상인의 방울[7]을 바쳤습니다</text>
+<text id="26001131">방랑 상인의 방울[8]을 바쳤습니다</text>
+<text id="26001132">방랑 상인의 방울[9]를 바쳤습니다</text>
+<text id="26001133">방랑 상인의 방울[10]을 바쳤습니다</text>
+<text id="26001134">방랑 상인의 방울[11]을 바쳤습니다</text>
+<text id="26001135">은둔 상인의 방울[3]을 바쳤습니다</text>
+<text id="26001136">속세를 떠난 상인의 방울[2]를 바쳤습니다</text>
+<text id="26001137">남겨진 상인의 방울을 바쳤습니다</text>
+<text id="26001138">속세를 떠난 상인의 방울[3]을 바쳤습니다</text>
+<text id="26001139">붙잡힌 상인의 방울을 바쳤습니다</text>
+<text id="26001140">이지의 방울을 바쳤습니다</text>
+<text id="26001141">로지에르의 방울을 바쳤습니다</text>
+<text id="26001142">불량배의 방울을 바쳤습니다</text>
+<text id="26001143">콜린의 방울을 바쳤습니다</text>
+<text id="26001144">고리의 방울을 바쳤습니다</text>
+<text id="26001145">뼈 장사꾼의 방울을 바쳤습니다</text>
+<text id="26001146">고기 장사꾼의 방울을 바쳤습니다</text>
+<text id="26001147">약 장사꾼의 방울을 바쳤습니다</text>
+<text id="26001148">중력 장사꾼의 방울을 바쳤습니다</text>
+<text id="26001149">%null%</text>
+<text id="26001150">%null%</text>
+<text id="26001151">단석 채석꾼의 방울[1]을 바쳤습니다</text>
+<text id="26001152">단석 채석꾼의 방울[2]를 바쳤습니다</text>
+<text id="26001153">단석 채석꾼의 방울[3]을 바쳤습니다</text>
+<text id="26001154">단석 채석꾼의 방울[4]를 바쳤습니다</text>
+<text id="26001155">색 잃은 채석꾼의 방울[1]을 바쳤습니다</text>
+<text id="26001156">색 잃은 채석꾼의 방울[2]를 바쳤습니다</text>
+<text id="26001157">색 잃은 채석꾼의 방울[3]을 바쳤습니다</text>
+<text id="26001158">색 잃은 채석꾼의 방울[4]를 바쳤습니다</text>
+<text id="26001159">색 잃은 채석꾼의 방울[5]를 바쳤습니다</text>
+<text id="26001160">은방울꽃 채취자의 방울[1]을 바쳤습니다</text>
+<text id="26001161">은방울꽃 채취자의 방울[2]를 바쳤습니다</text>
+<text id="26001162">은방울꽃 채취자의 방울[3]을 바쳤습니다</text>
+<text id="26001163">영혼 꽃 채취자의 방울[1]을 바쳤습니다</text>
+<text id="26001164">영혼 꽃 채취자의 방울[2]를 바쳤습니다</text>
+<text id="26001165">영혼 꽃 채취자의 방울[3]을 바쳤습니다</text>
+<text id="26010000">용찬 의식</text>
+<text id="26020000">무기 강화</text>
+<text id="26020001">%null%</text>
+<text id="26071000">엘든 링을 수복한다</text>
+<text id="26071001">완전률의 룬으로 엘든 링을 수복한다</text>
+<text id="26071002">죽음의 왕자의 룬으로 엘든 링을 수복한다</text>
+<text id="26071003">흉악한 저주의 룬으로 엘든 링을 수복한다</text>
+<text id="26080000">화장을 한다</text>
+<text id="26080001">떠난다</text>
+<text id="26081000">투기 참전 중에는 사용하실 수 없습니다</text>
+<text id="26201000">투기장은 온라인 플레이 전용입니다</text>
+<text id="26211000">투기장은 온라인 플레이 전용입니다</text>
+<text id="26221000">투기장은 온라인 플레이 전용입니다</text>
+<text id="26231000">투기장은 온라인 플레이 전용입니다</text>
+<text id="26231001">선택 가능한 투기장 규칙이 없습니다</text>
+<text id="28000002">칼레에 대해</text>
+<text id="28000003">추천</text>
+<text id="28000004">이야기를 한다</text>
+<text id="28000005">이야기를 한다</text>
+<text id="28000006">%null%</text>
+<text id="28000007">%null%</text>
+<text id="28000008">%null%</text>
+<text id="28000009">%null%</text>
+<text id="28000010">%null%</text>
+<text id="28000011">%null%</text>
+<text id="28000012">%null%</text>
+<text id="28000013">%null%</text>
+<text id="28000014">안개 숲의 울음소리에 대해</text>
+<text id="28000015">블라이드에 대해</text>
+<text id="99990200">%null%</text>
+<text id="99990201">%null%</text>
+<text id="99990202">%null%</text>
+<text id="99990203">%null%</text>
+<text id="99990204">%null%</text>
+<text id="99990205">레벨 업</text>
+<text id="99990299">%null%</text>
+<text id="99990300">%null%</text>
+<text id="99990301">멜리나와 대화한다</text>
+<text id="99990302">이제 환생 기념비에서 영혼을 소환할 수 있습니다</text>
+<text id="99990400">당신의 죄는 &lt;?evntAcquittalPrice?&gt;로 용서받을 것입니다. 룬
+사면을 요청하시겠습니까?</text>
+<text id="99990401">당신의 죄는 용서받았습니다</text>
+<text id="99990402">룬이 부족합니다</text>
+<text id="99990403">당신은 이미 무죄입니다</text>
+<text id="99990404">사죄를 요청하시겠습니까? (仮)</text>
+<text id="99990405">항목 없음(仮)</text>
+<text id="99991000">%null%</text>
+<text id="99992000">%null%</text>
+<text id="99992001">%null%</text>
+<text id="99992002">%null%</text>
+<text id="99992003">%null%</text>
+<text id="99992004">%null%</text>
+<text id="99992005">%null%</text>
+<text id="99992006">%null%</text>
+<text id="99992007">%null%</text>
+<text id="99992008">%null%</text>
+<text id="99992009">%null%</text>
+<text id="99992010">%null%</text>
+<text id="99993010">%null%</text>
+<text id="99993011">%null%</text>
+<text id="99993012">%null%</text>
+<text id="99993013">%null%</text>
+<text id="99993014">%null%</text>
+<text id="99993015">%null%</text>
+<text id="99993016">%null%</text>
+<text id="99993017">%null%</text>
+<text id="99993018">%null%</text>
+<text id="99993019">%null%</text>
+<text id="99993020">%null%</text>
+<text id="99993021">%null%</text>
+<text id="99996000">%null%</text>
+<text id="99997000">%null%</text>
+<text id="99998200">%null%</text>
+<text id="99998201">%null%</text>
+<text id="99998202">%null%</text>
+<text id="99998203">%null%</text>
+<text id="99998204">%null%</text>
+<text id="99998205">%null%</text>
+<text id="99998206">%null%</text>
+<text id="99998207">%null%</text>
+<text id="99998208">%null%</text>
+<text id="99998209">%null%</text>
+<text id="99998210">%null%</text>
+<text id="99998211">%null%</text>
+<text id="99998300">%null%</text>
+<text id="99998301">%null%</text>
+<text id="99998302">%null%</text>
+<text id="99998400">%null%</text>
+<text id="99998401">%null%</text>
+<text id="99998500">%null%</text>
+<text id="910000000">림그레이브 동부</text>
+<text id="910000001">흐느낌의 반도</text>
+<text id="910000002">케일리드 서부</text>
+<text id="910000003">케일리드 동부</text>
+<text id="910000004">케일리드 남부</text>
+<text id="910000005">호수의 리에니에 남부</text>
+<text id="910000006">호수의 리에니에 동부</text>
+<text id="910000007">호수의 레에니에 북부</text>
+<text id="910000008">겔미어 화산 동부</text>
+<text id="910000009">겔미어 화산 서부</text>
+<text id="910000010">알터 고원 중부</text>
+<text id="910000011">알터 고원 서부</text>
+<text id="910000012">알터 고원 동부</text>
+<text id="910000013">거인들의 산령 북부</text>
+<text id="910000014">거인들의 산령 남부</text>
+<text id="910000015">구별된 설원</text>
+<text id="910000016">에인세르 강</text>
+<text id="910000017">시프라 강</text>
+<text id="910000018">깊은 뿌리 밑바닥</text>
+<text id="910000019">림그레이브 폭풍의 언덕</text>
+<text id="910000020">금역</text>
+<text id="910000021">Entry #21</text>
+<text id="910000022">Entry #22</text>
+<text id="910000023">Entry #23</text>
+<text id="910000024">Entry #24</text>
+<text id="910000025">Entry #25</text>
+<text id="910000026">Entry #26</text>
+<text id="910000027">Entry #27</text>
+<text id="910000028">Entry #28</text>
+<text id="910000029">Entry #29</text>
+<text id="910000030">Entry #30</text>
+<text id="910000040">림그레이브</text>
+<text id="910000041">호수의 리에니에</text>
+<text id="910000042">케일리드</text>
+<text id="910000043">겔미어 화산</text>
+<text id="910000044">알터 고원</text>
+<text id="910000045">거인들의 산령</text>
+<text id="910000046">틈새의 땅 지하</text>
+<text id="910000100">추억 보스</text>
+<text id="910000101">던전 보스</text>
+<text id="910000150">접목의 고드릭</text>
+<text id="910000151">만월의 여왕 레날라</text>
+<text id="910000152">별 부수는 라단</text>
+<text id="910000153">선조령의 왕</text>
+<text id="910000154">암흑의 부산물 아스테르</text>
+<text id="910000155">모독의 군주 라이커드</text>
+<text id="910000156">흉조의 왕 모르고트</text>
+<text id="910000157">미켈라의 칼날 말레니아</text>
+<text id="910000158">피의 군주 모그</text>
+<text id="910000159">사룡 포르삭스</text>
+<text id="910000160">불의 거인</text>
+<text id="910000161">용왕 플라키두삭스</text>
+<text id="910000162">흑검 말리케스</text>
+<text id="910000163">전사 호라 루</text>
+<text id="910000164">엘데의 짐승</text>
+<text id="910000165">시련의 배신자 스카르데</text>
+<text id="910000166">신살갖의 여왕</text>
+<text id="910000167">Scion of the Sealed God</text>
+<text id="910000200">Margit, the Fell Omen</text>
+<text id="910000201">Sigur, Night's Captain</text>
+<text id="910000202">Dragonkin Soldier of Nokstella</text>
+<text id="910000203">Mimic Tear</text>
+<text id="910000204">Crucible Knight Siluria</text>
+<text id="910000205">Blighted Nox Ancestor</text>
+<text id="910000206">Dragonkin Soldier (Deeproot Depths)</text>
+<text id="910000207">Seera, Blade of the Ancients</text>
+<text id="910000208">Ancient Dragon Lansseax</text>
+<text id="910000209">Bols, Carian Knight</text>
+<text id="910000210">Loretta, Knight of the Haligtree</text>
+<text id="910000211">Godskin Noble (Volcano Manor)</text>
+<text id="910000212">Godskin Apostle (Divine Tower of Caelid)</text>
+<text id="910000213">Magma Wyrm Makar</text>
+<text id="910000214">Royal Knight Loretta</text>
+<text id="910000215">Elemer of the Briar</text>
+<text id="910000216">Shabriri's Chosen</text>
+<text id="910000217">Dakk, Starcaller Lord</text>
+<text id="910000218">Commander Niall</text>
+<text id="910001099">- - - START DUMMY MENU - - -</text>
+<text id="910001100">Restore Flasks and Resources</text>
+<text id="910001101">Training Grounds Settings</text>
+<text id="910001102">Dummy Settings</text>
+<text id="910001103">Player Settings</text>
+<text id="910001110">Dummy Type</text>
+<text id="910001111">Scaling</text>
+<text id="910001112">Aggro: &lt;font color="#7C0A02"&gt;OFF&lt;/font&gt;</text>
+<text id="910001113">Aggro: &lt;font color="#3AE400"&gt;ON&lt;/font&gt;</text>
+<text id="910001114">Immortality: &lt;font color="#7C0A02"&gt;OFF&lt;/font&gt;</text>
+<text id="910001115">Immortality: &lt;font color="#3AE400"&gt;ON&lt;/font&gt;</text>
+<text id="910001116">Stagger Immunity: &lt;font color="#7C0A02"&gt;OFF&lt;/font&gt;</text>
+<text id="910001117">Stagger Immunity: &lt;font color="#3AE400"&gt;ON&lt;/font&gt;</text>
+<text id="910001118">Regeneration: &lt;font color="#7C0A02"&gt;OFF&lt;/font&gt;</text>
+<text id="910001119">Regeneration: &lt;font color="#3AE400"&gt;ON&lt;/font&gt;</text>
+<text id="910001120">Immortality: &lt;font color="#7C0A02"&gt;OFF&lt;/font&gt;</text>
+<text id="910001121">Immortality: &lt;font color="#3AE400"&gt;ON&lt;/font&gt;</text>
+<text id="910001122">Infinite FP: &lt;font color="#7C0A02"&gt;OFF&lt;/font&gt;</text>
+<text id="910001123">Infinite FP: &lt;font color="#3AE400"&gt;ON&lt;/font&gt;</text>
+<text id="910001124">Health Multiplier: 1x</text>
+<text id="910001125">Health Multiplier: &lt;font color="#3AE400"&gt;3x&lt;/font&gt;</text>
+<text id="910001126">Health Multiplier: &lt;font color="#3AE400"&gt;10x&lt;/font&gt;</text>
+<text id="910001127">Health Multiplier: &lt;font color="#3AE400"&gt;30x&lt;/font&gt;</text>
+<text id="910001128">Max. Attributes: &lt;font color="#7C0A02"&gt;OFF&lt;/font&gt;</text>
+<text id="910001129">Max. Attributes: &lt;font color="#3AE400"&gt;ON&lt;/font&gt;</text>
+<text id="910001130">Limgrave / Liurnia</text>
+<text id="910001131">Mt. Gelmir / Ainsel</text>
+<text id="910001132">Altus Plateau</text>
+<text id="910001133">Mountaintops of the Giants</text>
+<text id="910001134">Farum Azula</text>
+<text id="910001135">Elden Throne</text>
+<text id="910001140">&lt;font color="#3AE400"&gt;Limgrave / Liurnia&lt;/font&gt;</text>
+<text id="910001141">&lt;font color="#3AE400"&gt;Mt. Gelmir / Ainsel&lt;/font&gt;</text>
+<text id="910001142">&lt;font color="#3AE400"&gt;Altus Plateau&lt;/font&gt;</text>
+<text id="910001143">&lt;font color="#3AE400"&gt;Mountaintops of the Giants&lt;/font&gt;</text>
+<text id="910001144">&lt;font color="#3AE400"&gt;Farum Azula&lt;/font&gt;</text>
+<text id="910001145">&lt;font color="#3AE400"&gt;Elden Throne&lt;/font&gt;</text>
+<text id="910001150">Small Beasts</text>
+<text id="910001151">Large Beasts</text>
+<text id="910001152">Soldiers</text>
+<text id="910001153">Fighters</text>
+<text id="910001154">Nox</text>
+<text id="910001155">Trolls</text>
+<text id="910001156">Constructs</text>
+<text id="910001157">Monstrosities</text>
+<text id="910001158">Albunaurics</text>
+<text id="910001159">Flame Monks</text>
+<text id="910001160">Perfumers</text>
+<text id="910001161">Undead</text>
+<text id="910001162">Sorcerers</text>
+<text id="910001163">Ancestrals</text>
+<text id="910001164">Demi-Humans</text>
+<text id="910001165">RESERVED</text>
+<text id="910001166">RESERVED</text>
+<text id="910001167">RESERVED</text>
+<text id="910001168">RESERVED</text>
+<text id="910001169">Other</text>
+<text id="910001170">&lt;font color="#3AE400"&gt;Small Beasts&lt;/font&gt;</text>
+<text id="910001171">&lt;font color="#3AE400"&gt;Large Beasts&lt;/font&gt;</text>
+<text id="910001172">&lt;font color="#3AE400"&gt;Soldiers&lt;/font&gt;</text>
+<text id="910001173">&lt;font color="#3AE400"&gt;Fighters&lt;/font&gt;</text>
+<text id="910001174">&lt;font color="#3AE400"&gt;Nox&lt;/font&gt;</text>
+<text id="910001175">&lt;font color="#3AE400"&gt;Trolls&lt;/font&gt;</text>
+<text id="910001176">&lt;font color="#3AE400"&gt;Constructs&lt;/font&gt;</text>
+<text id="910001177">&lt;font color="#3AE400"&gt;Monstrosities&lt;/font&gt;</text>
+<text id="910001178">&lt;font color="#3AE400"&gt;Albunaurics&lt;/font&gt;</text>
+<text id="910001179">&lt;font color="#3AE400"&gt;Flame Monks&lt;/font&gt;</text>
+<text id="910001180">&lt;font color="#3AE400"&gt;Perfumers&lt;/font&gt;</text>
+<text id="910001181">&lt;font color="#3AE400"&gt;Undead&lt;/font&gt;</text>
+<text id="910001182">&lt;font color="#3AE400"&gt;Sorcerers&lt;/font&gt;</text>
+<text id="910001183">&lt;font color="#3AE400"&gt;Ancestral&lt;/font&gt;</text>
+<text id="910001184">&lt;font color="#3AE400"&gt;Demi-Humans&lt;/font&gt;</text>
+<text id="910001185">&lt;font color="#3AE400"&gt;RESERVED&lt;/font&gt;</text>
+<text id="910001186">&lt;font color="#3AE400"&gt;RESERVED&lt;/font&gt;</text>
+<text id="910001187">&lt;font color="#3AE400"&gt;RESERVED&lt;/font&gt;</text>
+<text id="910001188">&lt;font color="#3AE400"&gt;RESERVED&lt;/font&gt;</text>
+<text id="910001189">&lt;font color="#3AE400"&gt;Other&lt;/font&gt;</text>
+<text id="910001200">Dog</text>
+<text id="910001201">Bear</text>
+<text id="910001202">Basilisk</text>
+<text id="910001203">Direwolf</text>
+<text id="910001204">Giant Bat</text>
+<text id="910001205">Winged Dame</text>
+<text id="910001206">Warhawk</text>
+<text id="910001207">Giant Dragonfly</text>
+<text id="910001208">Skeletal Snail</text>
+<text id="910001209">Serpent Snail</text>
+<text id="910001210">Crystal Snail</text>
+<text id="910001211">Large Direwolf</text>
+<text id="910001220">Runebear</text>
+<text id="910001221">Giant Crayfish</text>
+<text id="910001222">Lion Guardian</text>
+<text id="910001223">Red Wolf</text>
+<text id="910001224">Giant Land Octopus</text>
+<text id="910001225">Giant Crab</text>
+<text id="910001226">Giant Rat</text>
+<text id="910001227">Giant Ant Worker</text>
+<text id="910001228">Giant Hammerhead Ant</text>
+<text id="910001229">Giant Flying Ant</text>
+<text id="910001230">Monstrous Dog</text>
+<text id="910001231">Monstrous Crow</text>
+<text id="910001240">Exile Soldier</text>
+<text id="910001241">Leyndell Soldier (Sword)</text>
+<text id="910001242">Leyndell Soldier (Spear)</text>
+<text id="910001243">Leyndell Knight (Spear)</text>
+<text id="910001244">Leyndell Knight (Sword)</text>
+<text id="910001245">Banished Knight (Dual Swords)</text>
+<text id="910001246">Banished Knight (Halberd)</text>
+<text id="910001247">Cleanrot Knight (Spear)</text>
+<text id="910001248">Cleanrot Knight (Scythe)</text>
+<text id="910001249">Vulgar Militiaman (Saw)</text>
+<text id="910001250">Vulgar Militiaman (Shotel)</text>
+<text id="910001260">Kaiden Sellsword</text>
+<text id="910001261">Pumpkin Head</text>
+<text id="910001262">Duelist (Hammer)</text>
+<text id="910001263">Duelist (Axe)</text>
+<text id="910001264">Rotten Duelist (Hammer)</text>
+<text id="910001265">Rotten Duelist (Axe)</text>
+<text id="910001266">Bloodhound Knight</text>
+<text id="910001267">Crucible Knight</text>
+<text id="910001268">Baleful Shadow</text>
+<text id="910001269">Knight of Zamor</text>
+<text id="910001270">Sanguine Noble</text>
+<text id="910001271">Onyx Lord</text>
+<text id="910001272">Shabriri's Chosen</text>
+<text id="910001280">Nox Swordstress</text>
+<text id="910001281">Nox Monk</text>
+<text id="910001282">Night Maiden</text>
+<text id="910001283">Mimic Tear</text>
+<text id="910001284">Black Knife Assassin</text>
+<text id="910001300">Troll</text>
+<text id="910001301">Carian Troll</text>
+<text id="910001302">Frenzied Troll</text>
+<text id="910001303">Mountainous Troll</text>
+<text id="910001304">Stonedigger Troll</text>
+<text id="910001320">Fanged Imp</text>
+<text id="910001321">Marionette Soldier</text>
+<text id="910001322">Avionette Soldier</text>
+<text id="910001323">Living Jar</text>
+<text id="910001324">Abdouctor Virgin (Wheel)</text>
+<text id="910001325">Abdouctor Virgin (Blade)</text>
+<text id="910001326">Golem</text>
+<text id="910001327">Crystalian</text>
+<text id="910001328">Burial Watchdog</text>
+<text id="910001340">Fingercreeper</text>
+<text id="910001341">Kindred of Rot</text>
+<text id="910001342">Lesser Wormface</text>
+<text id="910001343">Wormface</text>
+<text id="910001344">Omen</text>
+<text id="910001345">Grafted Scion</text>
+<text id="910001346">Azula Beastman</text>
+<text id="910001347">Wraith Caller</text>
+<text id="910001348">Revenant</text>
+<text id="910001360">Young First Generation Albunauric</text>
+<text id="910001361">Elder First Generation Albunauric</text>
+<text id="910001362">Second Generation Albunauric</text>
+<text id="910001363">Large Second Generation Albunauric</text>
+<text id="910001364">Tainted Second Generation Albunauric</text>
+<text id="910001380">Thorn Sorcerer</text>
+<text id="910001381">Fire Monk</text>
+<text id="910001382">Blackflame Monk</text>
+<text id="910001383">Flame Chariot</text>
+<text id="910001384">Fire Prelate (Whip)</text>
+<text id="910001385">Fire Prelate (Hammer)</text>
+<text id="910001400">White Veiled Perfumer</text>
+<text id="910001401">Depraved Perfumer</text>
+<text id="910001402">High Page</text>
+<text id="910001403">Omemkiller</text>
+<text id="910001420">Skeletal Miliatiaman</text>
+<text id="910001421">Skeletal Bandit</text>
+<text id="910001422">Skeletal Mage</text>
+<text id="910001423">Azula Beastman Skeleton</text>
+<text id="910001424">Cemetery Shade</text>
+<text id="910001425">Giant Skeletal Slime</text>
+<text id="910001426">Skeletal Executioner</text>
+<text id="910001440">Glintstone Sorcerer</text>
+<text id="910001441">Lazuli Sorcerer</text>
+<text id="910001442">Twinsage Sorcerer</text>
+<text id="910001443">Battlemage</text>
+<text id="910001444">Graven Mass</text>
+<text id="910001460">Ancestral Follower</text>
+<text id="910001461">Ancestral Follower Shaman</text>
+<text id="910001480">Large Demi-Human</text>
+<text id="910001481">Lesser Demi-Human Chief</text>
+<text id="910001482">Demi-Human Queen</text>
+<text id="910001580">Celebrant</text>
+<text id="910001581">Erdtree Guardian</text>
+<text id="910001582">Oracle Envoy</text>
+<text id="910001583">Giant Oracle Envoy</text>
+<text id="910001584">Man-Serpent</text>
+<text id="910001585">Frenzied Nomad</text>
+<text id="910001586">Lionine Misbegotten</text>
+<text id="910001587">Lesser Dragon</text>
+<text id="910001600">&lt;font color="#3AE400"&gt;Dog&lt;/font&gt;</text>
+<text id="910001601">&lt;font color="#3AE400"&gt;Bear&lt;/font&gt;</text>
+<text id="910001602">&lt;font color="#3AE400"&gt;Basilisk&lt;/font&gt;</text>
+<text id="910001603">&lt;font color="#3AE400"&gt;Direwolf&lt;/font&gt;</text>
+<text id="910001604">&lt;font color="#3AE400"&gt;Giant Bat&lt;/font&gt;</text>
+<text id="910001605">&lt;font color="#3AE400"&gt;Winged Dame&lt;/font&gt;</text>
+<text id="910001606">&lt;font color="#3AE400"&gt;Warhawk&lt;/font&gt;</text>
+<text id="910001607">&lt;font color="#3AE400"&gt;Giant Dragonfly&lt;/font&gt;</text>
+<text id="910001608">&lt;font color="#3AE400"&gt;Skeletal Snail&lt;/font&gt;</text>
+<text id="910001609">&lt;font color="#3AE400"&gt;Serpent Snail&lt;/font&gt;</text>
+<text id="910001610">&lt;font color="#3AE400"&gt;Crystal Snail&lt;/font&gt;</text>
+<text id="910001611">&lt;font color="#3AE400"&gt;Large Direwolf&lt;/font&gt;</text>
+<text id="910001620">&lt;font color="#3AE400"&gt;Runebear&lt;/font&gt;</text>
+<text id="910001621">&lt;font color="#3AE400"&gt;Giant Crayfish&lt;/font&gt;</text>
+<text id="910001622">&lt;font color="#3AE400"&gt;Lion Guardian&lt;/font&gt;</text>
+<text id="910001623">&lt;font color="#3AE400"&gt;Red Wolf&lt;/font&gt;</text>
+<text id="910001624">&lt;font color="#3AE400"&gt;Giant Land Octopus&lt;/font&gt;</text>
+<text id="910001625">&lt;font color="#3AE400"&gt;Giant Crab&lt;/font&gt;</text>
+<text id="910001626">&lt;font color="#3AE400"&gt;Giant Rat&lt;/font&gt;</text>
+<text id="910001627">&lt;font color="#3AE400"&gt;Giant Ant Worker&lt;/font&gt;</text>
+<text id="910001628">&lt;font color="#3AE400"&gt;Giant Hammerhead Ant&lt;/font&gt;</text>
+<text id="910001629">&lt;font color="#3AE400"&gt;Giant Flying Ant&lt;/font&gt;</text>
+<text id="910001630">&lt;font color="#3AE400"&gt;Monstrous Dog&lt;/font&gt;</text>
+<text id="910001631">&lt;font color="#3AE400"&gt;Monsterous Crow&lt;/font&gt;</text>
+<text id="910001640">&lt;font color="#3AE400"&gt;Exile Soldier&lt;/font&gt;</text>
+<text id="910001641">&lt;font color="#3AE400"&gt;Leyndell Soldier (Sword)&lt;/font&gt;</text>
+<text id="910001642">&lt;font color="#3AE400"&gt;Leyndell Soldier (Spear)&lt;/font&gt;</text>
+<text id="910001643">&lt;font color="#3AE400"&gt;Leyndell Knight (Spear)&lt;/font&gt;</text>
+<text id="910001644">&lt;font color="#3AE400"&gt;Leyndell Knight (Sword)&lt;/font&gt;</text>
+<text id="910001645">&lt;font color="#3AE400"&gt;Banished Knight (Dual Swords)&lt;/font&gt;</text>
+<text id="910001646">&lt;font color="#3AE400"&gt;Banished Knight (Halberd)&lt;/font&gt;</text>
+<text id="910001647">&lt;font color="#3AE400"&gt;Cleanrot Knight (Spear)&lt;/font&gt;</text>
+<text id="910001648">&lt;font color="#3AE400"&gt;Cleanrot Knight (Scythe)&lt;/font&gt;</text>
+<text id="910001649">&lt;font color="#3AE400"&gt;Vulgar Militiaman (Saw)&lt;/font&gt;</text>
+<text id="910001650">&lt;font color="#3AE400"&gt;Vulgar Militiaman (Shotel)&lt;/font&gt;</text>
+<text id="910001660">&lt;font color="#3AE400"&gt;Kaiden Sellsword&lt;/font&gt;</text>
+<text id="910001661">&lt;font color="#3AE400"&gt;Pumpkin Head&lt;/font&gt;</text>
+<text id="910001662">&lt;font color="#3AE400"&gt;Duelist (Hammer)&lt;/font&gt;</text>
+<text id="910001663">&lt;font color="#3AE400"&gt;Duelist (Axe)&lt;/font&gt;</text>
+<text id="910001664">&lt;font color="#3AE400"&gt;Rotten Duelist (Hammer)&lt;/font&gt;</text>
+<text id="910001665">&lt;font color="#3AE400"&gt;Rotten Duelist (Axe)&lt;/font&gt;</text>
+<text id="910001666">&lt;font color="#3AE400"&gt;Bloodhound Knight&lt;/font&gt;</text>
+<text id="910001667">&lt;font color="#3AE400"&gt;Crucible Knight&lt;/font&gt;</text>
+<text id="910001668">&lt;font color="#3AE400"&gt;Baleful Shadow&lt;/font&gt;</text>
+<text id="910001669">&lt;font color="#3AE400"&gt;Knight of Zamor&lt;/font&gt;</text>
+<text id="910001670">&lt;font color="#3AE400"&gt;Sanguine Noble&lt;/font&gt;</text>
+<text id="910001671">&lt;font color="#3AE400"&gt;Onyx Lord&lt;/font&gt;</text>
+<text id="910001672">&lt;font color="#3AE400"&gt;Shabriri's Chosen&lt;/font&gt;</text>
+<text id="910001680">&lt;font color="#3AE400"&gt;Nox Swordstress&lt;/font&gt;</text>
+<text id="910001681">&lt;font color="#3AE400"&gt;Nox Monk&lt;/font&gt;</text>
+<text id="910001682">&lt;font color="#3AE400"&gt;Night Maiden&lt;/font&gt;</text>
+<text id="910001683">&lt;font color="#3AE400"&gt;Mimic Tear&lt;/font&gt;</text>
+<text id="910001684">&lt;font color="#3AE400"&gt;Black Knife Assassin&lt;/font&gt;</text>
+<text id="910001700">&lt;font color="#3AE400"&gt;Troll&lt;/font&gt;</text>
+<text id="910001701">&lt;font color="#3AE400"&gt;Carian Troll&lt;/font&gt;</text>
+<text id="910001702">&lt;font color="#3AE400"&gt;Frenzied Troll&lt;/font&gt;</text>
+<text id="910001703">&lt;font color="#3AE400"&gt;Mountainous Troll&lt;/font&gt;</text>
+<text id="910001704">&lt;font color="#3AE400"&gt;Stonedigger Troll&lt;/font&gt;</text>
+<text id="910001720">&lt;font color="#3AE400"&gt;Fanged Imp&lt;/font&gt;</text>
+<text id="910001721">&lt;font color="#3AE400"&gt;Marionette Soldier&lt;/font&gt;</text>
+<text id="910001722">&lt;font color="#3AE400"&gt;Avionette Soldier&lt;/font&gt;</text>
+<text id="910001723">&lt;font color="#3AE400"&gt;Living Jar&lt;/font&gt;</text>
+<text id="910001724">&lt;font color="#3AE400"&gt;Abdouctor Virgin (Wheel)&lt;/font&gt;</text>
+<text id="910001725">&lt;font color="#3AE400"&gt;Abdouctor Virgin (Blade)&lt;/font&gt;</text>
+<text id="910001726">&lt;font color="#3AE400"&gt;Golem&lt;/font&gt;</text>
+<text id="910001727">&lt;font color="#3AE400"&gt;Crystalian&lt;/font&gt;</text>
+<text id="910001728">&lt;font color="#3AE400"&gt;Burial Watchdog&lt;/font&gt;</text>
+<text id="910001740">&lt;font color="#3AE400"&gt;Fingercreeper&lt;/font&gt;</text>
+<text id="910001741">&lt;font color="#3AE400"&gt;Kindred of Rot&lt;/font&gt;</text>
+<text id="910001742">&lt;font color="#3AE400"&gt;Lesser Wormface&lt;/font&gt;</text>
+<text id="910001743">&lt;font color="#3AE400"&gt;Wormface&lt;/font&gt;</text>
+<text id="910001744">&lt;font color="#3AE400"&gt;Omen&lt;/font&gt;</text>
+<text id="910001745">&lt;font color="#3AE400"&gt;Grafted Scion&lt;/font&gt;</text>
+<text id="910001746">&lt;font color="#3AE400"&gt;Azula Beastman&lt;/font&gt;</text>
+<text id="910001747">&lt;font color="#3AE400"&gt;Wraith Caller&lt;/font&gt;</text>
+<text id="910001748">&lt;font color="#3AE400"&gt;Revenant&lt;/font&gt;</text>
+<text id="910001760">&lt;font color="#3AE400"&gt;Young First Generation Albunauric&lt;/font&gt;</text>
+<text id="910001761">&lt;font color="#3AE400"&gt;Elder First Generation Albunauric&lt;/font&gt;</text>
+<text id="910001762">&lt;font color="#3AE400"&gt;Second Generation Albunauric&lt;/font&gt;</text>
+<text id="910001763">&lt;font color="#3AE400"&gt;Large Second Generation Albunauric&lt;/font&gt;</text>
+<text id="910001764">&lt;font color="#3AE400"&gt;Tainted Second Generation Albunauric&lt;/font&gt;</text>
+<text id="910001780">&lt;font color="#3AE400"&gt;Thorn Sorcerer&lt;/font&gt;</text>
+<text id="910001781">&lt;font color="#3AE400"&gt;Fire Monk&lt;/font&gt;</text>
+<text id="910001782">&lt;font color="#3AE400"&gt;Blackflame Monk&lt;/font&gt;</text>
+<text id="910001783">&lt;font color="#3AE400"&gt;Flame Chariot&lt;/font&gt;</text>
+<text id="910001784">&lt;font color="#3AE400"&gt;Fire Prelate (Whip)&lt;/font&gt;</text>
+<text id="910001785">&lt;font color="#3AE400"&gt;Fire Prelate (Hammer)&lt;/font&gt;</text>
+<text id="910001800">&lt;font color="#3AE400"&gt;White Veiled Perfumer&lt;/font&gt;</text>
+<text id="910001801">&lt;font color="#3AE400"&gt;Depraved Perfumer&lt;/font&gt;</text>
+<text id="910001802">&lt;font color="#3AE400"&gt;High Page&lt;/font&gt;</text>
+<text id="910001803">&lt;font color="#3AE400"&gt;Omemkiller&lt;/font&gt;</text>
+<text id="910001820">&lt;font color="#3AE400"&gt;Skeletal Miliatiaman&lt;/font&gt;</text>
+<text id="910001821">&lt;font color="#3AE400"&gt;Skeletal Bandit&lt;/font&gt;</text>
+<text id="910001822">&lt;font color="#3AE400"&gt;Skeletal Mage&lt;/font&gt;</text>
+<text id="910001823">&lt;font color="#3AE400"&gt;Azula Beastman Skeleton&lt;/font&gt;</text>
+<text id="910001824">&lt;font color="#3AE400"&gt;Cemetery Shade&lt;/font&gt;</text>
+<text id="910001825">&lt;font color="#3AE400"&gt;Giant Skeletal Slime&lt;/font&gt;</text>
+<text id="910001826">&lt;font color="#3AE400"&gt;Skeletal Executioner&lt;/font&gt;</text>
+<text id="910001840">&lt;font color="#3AE400"&gt;Glintstone Sorcerer&lt;/font&gt;</text>
+<text id="910001841">&lt;font color="#3AE400"&gt;Lazuli Sorcerer&lt;/font&gt;</text>
+<text id="910001842">&lt;font color="#3AE400"&gt;Twinsage Sorcerer&lt;/font&gt;</text>
+<text id="910001843">&lt;font color="#3AE400"&gt;Battlemage&lt;/font&gt;</text>
+<text id="910001844">&lt;font color="#3AE400"&gt;Graven Mass&lt;/font&gt;</text>
+<text id="910001860">&lt;font color="#3AE400"&gt;Ancestral Follower&lt;/font&gt;</text>
+<text id="910001861">&lt;font color="#3AE400"&gt;Ancestral Follower Shaman&lt;/font&gt;</text>
+<text id="910001880">&lt;font color="#3AE400"&gt;Large Demi-Human&lt;/font&gt;</text>
+<text id="910001881">&lt;font color="#3AE400"&gt;Lesser Demi-Human Chief&lt;/font&gt;</text>
+<text id="910001882">&lt;font color="#3AE400"&gt;Demi-Human Queen&lt;/font&gt;</text>
+<text id="910001980">&lt;font color="#3AE400"&gt;Celebrant&lt;/font&gt;</text>
+<text id="910001981">&lt;font color="#3AE400"&gt;Erdtree Guardian&lt;/font&gt;</text>
+<text id="910001982">&lt;font color="#3AE400"&gt;Oracle Envoy&lt;/font&gt;</text>
+<text id="910001983">&lt;font color="#3AE400"&gt;Giant Oracle Envoy&lt;/font&gt;</text>
+<text id="910001984">&lt;font color="#3AE400"&gt;Man-Serpent&lt;/font&gt;</text>
+<text id="910001985">&lt;font color="#3AE400"&gt;Frenzied Nomad&lt;/font&gt;</text>
+<text id="910001986">&lt;font color="#3AE400"&gt;Lionine Misbegotten&lt;/font&gt;</text>
+<text id="910001987">&lt;font color="#3AE400"&gt;Lesser Dragon&lt;/font&gt;</text>
+<text id="910002001">- - - END   DUMMY MENU - - -</text>
+</entries>
+</fmg>
