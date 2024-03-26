@@ -6,9 +6,9 @@ item-msgbnd-dcx
   
   AccessoryName
   
-  ArtsCaption
+  ArtsCaption 100% CYS
   
-  ArtsName
+  ArtsName 100% CYS
   
   GemCaption
   
@@ -62,7 +62,7 @@ menu-msgbnd-dcx
   
   EventTextForMap
   
-  EventTextForTalk
+  EventTextForTalk 100% CYS
   
   GR_Dialogues
   
