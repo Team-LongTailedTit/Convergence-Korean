@@ -1,0 +1,44 @@
+=====================================NPC Name=====================================
+
+<text id="138650">Stormcaller Curtis				폭풍소환사 커티스
+<text id="138660">Necromancer Domo				네크로맨서 도모
+<text id="138670">Glint Sorceress Bree				휘석 마술사 브리
+<text id="138671">Fundamentalist Gino				원리주의자 자이노
+<text id="138672">Darkmoon Knight Oroboro		암월의 기사 오로보로
+<text id="138673">Volcanist Dist					화산술사 디스트
+<text id="138674">Snuppet, Servant of Rot			부패의 하인 스터핏
+<text id="138675">Nox Oracle Sadia				녹스의 예언자 사디아	
+<text id="902035000">Godskin Matriarch</text>		신살갖의 대모
+<text id="902036000">Scion of the Sealed God</text>	봉인된 신의 귀공자
+<text id="902036001">Vessel of Rot</text>			부패의 그릇
+<text id="902500510">Dakk, Starcaller Lord</text>		별 부름의 군주 다크
+<text id="902500600">Crucible Knight Siluria</text>	도가니의 기사 실루리아
+<text id="902500601">Blighted Nox Ancestor</text>	녹스의 선조
+<text id="904140305">Shabriri's Chosen</text>		샤브리리에게 선택받은 자
+<text id="904260306">Frenzied Burial Watchdog</text>	광포한 환수의 파수견
+<text id="904290310">Battlemage Duncan</text>		전투 마법사 덩켄
+<text id="904720002">Sigur, Night's Captain</text>	밤 기병 대장 시구르
+<text id="904720003">Skarde, Crucible's Betrayer</text> 도가니의 배율자 스카르데
+
+=====================================EventTextForTalk=====================================
+Seera, Blade of the Ancients 						고룡의 칼날 시라
+
+
+=====================================WeaponCaption=====================================
+용인의 마술 : dragonkin Sorcery
+
+
+추가 무기
+1120000 의사의 외과도
+1170000 밤빛 단검
+1180000 죽음의 의식용 단검
+2030000 유라의 금쇄봉
+2100000 서풍
+2120000 용맹의 검
+2200000 악신의 불의 검
+2250000 용인 추적자의 검
+3110000 천상의 검
+3120000 악신의 검
+3230000 하데아의 검
+4120000 고룡의 바위검	==현재 weaponcaption, name 진행중== 바닐라 영문/모드 영문 비교기 켜라
+4130000 오시안의 대검
