@@ -6,9 +6,9 @@ item-msgbnd-dcx
   
   AccessoryName
   
-  ArtsCaption 100% CYS
+  ArtsCaption : 100% - 빙뢰 발도 수정
   
-  ArtsName 100% CYS
+  ArtsName : 100% - 빙뢰 발도 수정
   
   GemCaption
   
@@ -34,9 +34,9 @@ item-msgbnd-dcx
   
   MagicName
   
-  NpcName
+  NpcName : 100%
   
-  PlaceName
+  PlaceName : 100%
   
   ProtectorCaption
   
@@ -44,13 +44,13 @@ item-msgbnd-dcx
   
   ProtectorName
   
-  WeaponCaption
+  WeaponCaption : 100%
   
   WeaponEffect
   
   WeaponInfo
   
-  WeaponName
+  WeaponName : 100%
   
   ---
 
@@ -62,7 +62,7 @@ menu-msgbnd-dcx
   
   EventTextForMap
   
-  EventTextForTalk 100% CYS
+  EventTextForTalk : 90% - 보스 회상 제외
   
   GR_Dialogues
   
